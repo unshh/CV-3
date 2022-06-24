@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin: 70px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0;
+  font-weight: normal;
+}
+.dp {
+  width: 200px;
+}
+.bio {
+  width: 50%;
+  margin: 10px auto 20px auto
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-cont {
+  background-color: #8FBDD3;
+  padding-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+.analytics {
+  width: 15%;
+}
+
+.software {
+  width: 15%;
+}
+
+.touch {
+  margin: 20px auto 0 auto;
+}
