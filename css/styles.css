@@ -21,7 +21,7 @@ h2 {
 }
 .bio {
   width: 50%;
-  margin: 10px auto 20px auto
+  margin: 20px auto 30px auto;
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
@@ -57,4 +57,49 @@ h3 {
 
 .touch {
   margin: 20px auto 0 auto;
+}
+
+.btn {
+  background: #A27B5C;
+  background-image: -webkit-linear-gradient(top, #A27B5C, #A27B5C);
+  background-image: -moz-linear-gradient(top, #A27B5C, #A27B5C);
+  background-image: -ms-linear-gradient(top, #A27B5C, #A27B5C);
+  background-image: -o-linear-gradient(top, #A27B5C, #A27B5C);
+  background-image: linear-gradient(to bottom, #A27B5C, #A27B5C);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3F4E4F;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #2C3639;
+  margin-bottom: 0;
+  margin-top: 20px;
+  text-decoration-color: white;
+  padding: 15px;
+}
+
+a {
+  color: white;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #A27B5C;
+}
+
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding-top: 1rem;
 }
